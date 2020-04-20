@@ -5,6 +5,7 @@
 
 namespace cinder {
 
+
 using ciAnimatedGifRef = std::shared_ptr<class ciAnimatedGif>;
 
 class ciAnimatedGif {
